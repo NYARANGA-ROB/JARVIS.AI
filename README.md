@@ -136,7 +136,5 @@ Then, speak a command, and the assistant will process it using AI models and exe
 
 
 
----
-## License
-*This project is licensed under the **MIT License** - see the LICENSE file for details.*
+
 
