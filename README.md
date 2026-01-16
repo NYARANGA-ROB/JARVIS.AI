@@ -117,7 +117,8 @@ Then, speak a command, and the assistant will process it using AI models and exe
 │   ├── .env                      # Api keys storage, e-mail, username, bot name, etc.
 ├──
 ```
----
+
+
 
 
 
